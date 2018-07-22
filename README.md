@@ -1,18 +1,18 @@
 # wixTest
 ## Tools Used
-Java 1.8.0_111
-Apache Maven 3.5.4
-Selenium 3.13.0
-TestNG 6.8
-Chromriver 2.40.56538
+Java 1.8.0_111<br/>
+Apache Maven 3.5.4<br/>
+Selenium 3.13.0<br/>
+TestNG 6.8<br/>
+Chromriver 2.40.56538<br/>
 Chrome 67
 
 ## Setup
 ### Preconditions
-JDK 1.8 is installed
-Maven 3.5.4 is installed
-Chromedriver 2.40.56538 is installed
-Chrome 67 is installed
+1. JDK 1.8 is installed
+2. Maven 3.5.4 is installed
+3. Chromedriver 2.40.56538 is installed
+4. Chrome 67 is installed
 
 ### Steps
 1. Clone the repo `git@github.com:IevgenC/wixTest.git`
