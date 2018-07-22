@@ -80,9 +80,7 @@ public class CartTest extends BaseTest {
 
         // 14. Change quantity of glasses to 3
         cartPage = cartPage.updateProductQuantity("Premium Glasses", "3");
-        homePage.waitForItemsAmountUpdated("4");
-        homePage.verifyItemsAmountOnCartIcon("4");
-
+        
         // 15.	Remove Scarf from the Cart View
         cartPage.removeProduct("I'm a product");
         homePage.waitForItemsAmountUpdated("3");
