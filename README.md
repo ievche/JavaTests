@@ -15,7 +15,7 @@ Chrome 67
 4. Chrome 67 is installed
 
 ### Steps
-1. Clone the repo `git@github.com:IevgenC/wixTest.git`
+1. Clone the repo `git@github.com:ievgenChernikov/JavaTests.git`
 2. Install dependencies and run test `mvn install`
 
 Alternatively the tests can be run using IntelliJ Idea UI.
