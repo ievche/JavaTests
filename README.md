@@ -1,4 +1,4 @@
-# wixTest
+# Java Tests
 ## Tools Used
 Java 1.8.0_111<br/>
 Apache Maven 3.5.4<br/>
